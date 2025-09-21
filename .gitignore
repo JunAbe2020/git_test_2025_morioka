@@ -1,2 +1,6 @@
 ignore.md
+.venv
+.env
+# API_KEYなど
 
+# 
